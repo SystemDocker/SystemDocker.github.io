@@ -1,0 +1,8 @@
+title: SystemDocker
+description: Information about the systemd-docker project
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
