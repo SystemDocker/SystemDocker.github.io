@@ -1,7 +1,7 @@
 title: SystemDocker
 description: Information about the systemd-docker project
-google_analytics: 
-show_downloads: true
+google_analytics: UA-90355511-1
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
